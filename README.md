@@ -8,4 +8,4 @@ This Repository was created years ago as plugin extension for excellent WordPres
 
 [WordPress IP Geo Block Plugin](https://wordpress.org/plugins/ip-geo-block/)
 
-Unfortunately IP Geo Block was abandoned years ago, and I let my extension to be removed from WordPress.
+Plugin was published on WordPress Plugins directory. Unfortunately IP Geo Block was later abandoned, and I let that extension to be removed from WordPress.
